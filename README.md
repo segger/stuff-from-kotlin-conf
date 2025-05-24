@@ -9,7 +9,10 @@
 
 * [ ] exposed
 * [ ] amper
+
+* [ ] kotlin 2.2
 * [ ] co-routines
+
 
 * [ ] notebook
 
